@@ -1,0 +1,9 @@
+remove vs2022community
+add vscode
+run wsl --upgrade
+install firefox
+install git
+install docker desktop with wsl2 backend
+install pwsh 7
+set windows terminal as default, add pwsh as default shell
+mkdir C:\Users\User\Programs\
